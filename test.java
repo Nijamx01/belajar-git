@@ -1,5 +1,6 @@
 public class test{
   public static void main (string[] args){
-  system.out.println("Hello Word);
+  System.out.println("Hello Word");
+  System.out.println("Mencoba push di github");
   }
 }
